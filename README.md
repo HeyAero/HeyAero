@@ -11,6 +11,7 @@ My name is Aaron and I am a trainee full stack developer @ [FutureProof](https:/
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks & Libraries:
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge)
