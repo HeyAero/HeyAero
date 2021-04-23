@@ -1,9 +1,11 @@
 ![HeyAero Banner](https://i.imgur.com/8N15xFC.png)
 
 # Hey there 👋
-My name is Aaron and I am a trainee full stack developer @ [FutureProof](https://getfutureproof.co.uk/). You can view all my work here or on my [Porfolio Website](https://aaron-yates-futureproof.netlify.app/).
+My name is Aaron and I am currently a trainee full stack developer @ [Futureproof](https://getfutureproof.co.uk/). You can view all my work here or on my [Porfolio Website](https://aaron-yates-futureproof.netlify.app/).
 
-## What I know:
+If you wish to get in contact, you can find me on [LinkedIn](https://www.linkedin.com/in/aaron-yates-27007316b/) 
+
+## What I have learnt:
 
 ### Programming Languages:
 ![Node JS](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
@@ -27,22 +29,6 @@ My name is Aaron and I am a trainee full stack developer @ [FutureProof](https:/
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 
-## Stats
+## Some cool stats:
 ![HeyAero Stats](https://github-readme-stats.vercel.app/api?username=heyaero&show_icons=true&theme=dark)
 ![HeyAero Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaero&layout=compact&show_icons=true&theme=dark)
-
-
-<!--
-**HeyAero/HeyAero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
