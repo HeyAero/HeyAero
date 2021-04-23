@@ -27,7 +27,8 @@ My name is Aaron and I am a trainee full stack developer @ [FutureProof](https:/
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 
 ## Stats
-![HeyAero Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaero&layout=compact&show_icons=true&theme=cobalt)
+![HeyAero Stats](https://github-readme-stats.vercel.app/api?username=heyaero&show_icons=true&theme=dark)
+![HeyAero Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaero&layout=compact&show_icons=true&theme=dark)
 
 
 <!--
